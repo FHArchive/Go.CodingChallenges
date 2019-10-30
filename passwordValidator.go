@@ -27,7 +27,6 @@ func main() {
 		}
 		fmt.Printf("Password: %s, Valid? %s\n", arg, valid)
 	}
-
 }
 
 /*
@@ -49,7 +48,6 @@ func updateTypeMap(char int, typeMap [3]int) [3]int {
 	}
 
 	return typeMap
-
 }
 
 /*
