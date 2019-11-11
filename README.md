@@ -1,12 +1,12 @@
 <p float="left">
-<a href="/"><img src="https://img.shields.io/github/languages/top/FredHappyface/Go.CodingChallenges.svg?style=flat-square" alt="Github top language"></a>
+<a href="../../"><img src="https://img.shields.io/github/languages/top/FredHappyface/Go.CodingChallenges.svg?style=flat-square" alt="Github top language"></a>
 <a href="https://www.codacy.com/manual/FredHappyface/Go.CodingChallenges"><img src="https://img.shields.io/codacy/grade/6e85b28a0b7e471a9347292b70fe5a85.svg?style=flat-square" alt="Codacy grade"></a>
 <a href="https://www.codacy.com/manual/FredHappyface/Go.CodingChallenges"><img src="https://img.shields.io/codacy/coverage/6e85b28a0b7e471a9347292b70fe5a85.svg?style=flat-square" alt="Codacy coverage"></a>
-<a href="/"><img src="https://img.shields.io/github/repo-size/FredHappyface/Go.CodingChallenges.svg?style=flat-square" alt="Repository size"></a>
-<a href="/issues"><img src="https://img.shields.io/github/issues/FredHappyface/Go.CodingChallenges.svg?style=flat-square" alt="Issues"></a>
-<a href="/LICENSE.md"><img src="https://img.shields.io/github/license/FredHappyface/Go.CodingChallenges.svg?style=flat-square" alt="License"></a>
-<a href="/commits/master"><img src="https://img.shields.io/github/commit-activity/m/FredHappyface/Go.CodingChallenges.svg?style=flat-square" alt="Commit activity"></a>
-<a href="/commits/master"><img src="https://img.shields.io/github/last-commit/FredHappyface/Go.CodingChallenges.svg?"style=flat-square" alt="Last commit"></a>
+<a href="../../"><img src="https://img.shields.io/github/repo-size/FredHappyface/Go.CodingChallenges.svg?style=flat-square" alt="Repository size"></a>
+<a href="../../issues"><img src="https://img.shields.io/github/issues/FredHappyface/Go.CodingChallenges.svg?style=flat-square" alt="Issues"></a>
+<a href="../../LICENSE.md"><img src="https://img.shields.io/github/license/FredHappyface/Go.CodingChallenges.svg?style=flat-square" alt="License"></a>
+<a href="../../commits/master"><img src="https://img.shields.io/github/commit-activity/m/FredHappyface/Go.CodingChallenges.svg?style=flat-square" alt="Commit activity"></a>
+<a href="../../commits/master"><img src="https://img.shields.io/github/last-commit/FredHappyface/Go.CodingChallenges.svg?"style=flat-square" alt="Last commit"></a>
 </p>
 
 # Go.CodingChallenges
