@@ -1,8 +1,8 @@
+// 2>/dev/null; $(which go) run $0 $@; exit $?
 /*
 By Kieran BW
 Psk is valid if MinLength = 8, MaxLength = 64, 1 Int, 1 Special, 0 Spaces
 */
-
 package main
 
 import (
