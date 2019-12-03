@@ -30,6 +30,7 @@ on this language can be found at: <https://golang.org/>.
 Download from https://code.visualstudio.com/.
 ### Go
 Download and install Go from https://golang.org/dl/.
+
 Install with chocolatey
 ```powershell
 choco install golang
