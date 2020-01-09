@@ -15,13 +15,14 @@ Some coding challenges to develop my knowledge and skills in go.
 
 ## Current programs
 ### passwordValidator
-A simple password validator
+A simple password validator with tests
 ### swapFunction
 Swap two strings
 ### whichOS
-Return a string describing the OS
+Return a string describing the OS with tests
 ### wordNumbers
 Return a number as a word. For example, 2809 would be "two eight zero nine"
+with tests
 
 ## Language information
 This program is written in Go using Visual Studio Code, further information
